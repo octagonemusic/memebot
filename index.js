@@ -158,10 +158,7 @@ client.on('ready', () => {
 client.on("ready", () => {
   const arrayOfStatus = [
     `mbhelp for more commands`,
-    `Made by Octagone`,
-    `Owned by Aaryan`,
-    `Watch this video | https://youtu.be/hyc7B3HR8-0`,
-    `Amogus`
+    `Made by Octagone`
   ];
 
   let index = 0
